@@ -10,8 +10,11 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
+          Welcome to <strong>Thousandfeeds</strong>
         </h1>
+        <h3>
+          Entities from different dimensions.
+        </h3>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
@@ -57,6 +60,14 @@ const Hero = props => {
               margin: 0 0 0 ${theme.space.xs};
             }
           }
+        }
+
+        h3 {
+          text-align: center;
+          font-size: 22px;
+          margin: ${theme.space.stack.s};
+          color:  ${theme.hero.h1.color};
+          text-remove-gap: both 0 "Open Sans";
         }
 
         button {
