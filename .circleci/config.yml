@@ -42,7 +42,9 @@ jobs:
 
               npm run build
 
-              cp -a build/. out/.
+              cp -a public/. out/.
+
+              cp -a domain/. out/.
 
               mkdir -p out/.circleci && cp -a .circleci/. out/.circleci/.
               cd out
