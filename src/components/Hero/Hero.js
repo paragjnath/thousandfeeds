@@ -27,7 +27,7 @@ const Hero = props => {
           background: ${theme.hero.background};
           background-image: url(${backgrounds.mobile});
           background-size: cover;
-          color: ${theme.text.color.primary.inverse};
+          color: ${theme.text.color.dark};
           display: flex;
           flex-flow: column nowrap;
           justify-content: center;
@@ -38,40 +38,26 @@ const Hero = props => {
         }
 
         h1 {
+          font-weight: 100;
           text-align: center;
           font-size: ${theme.hero.h1.size};
           margin: ${theme.space.stack.l};
-          color: ${theme.hero.h1.color};
+          color: ${theme.hero.primary};
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
-
-          :global(strong) {
-            position: relative;
-
-            &::after,
-            &::before {
-              content: "›";
-              color: ${theme.text.color.attention};
-              margin: 0 ${theme.space.xs} 0 0;
-              text-shadow: 0 0 ${theme.space.s} ${theme.color.neutral.gray.k};
-            }
-            &::after {
-              content: "‹";
-              margin: 0 0 0 ${theme.space.xs};
-            }
-          }
         }
 
         h3 {
+          font-weight: 400;
           text-align: center;
           font-size: 22px;
-          margin: ${theme.space.stack.s};
-          color:  ${theme.hero.h1.color};
+          margin: ${theme.space.stack.l};
+          color:  ${theme.hero.light};
           text-remove-gap: both 0 "Open Sans";
         }
 
         button {
-          background: ${theme.background.color.brand};
+          background: #797a7782;
           border: 0;
           border-radius: 50%;
           font-size: ${theme.font.size.m};
@@ -91,9 +77,6 @@ const Hero = props => {
             fill: ${theme.color.neutral.white};
             stroke-width: 40;
             stroke: ${theme.color.neutral.white};
-            animation-duration: ${theme.time.duration.long};
-            animation-name: buttonIconMove;
-            animation-iteration-count: infinite;
           }
         }
 

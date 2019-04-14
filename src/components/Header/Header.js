@@ -111,7 +111,6 @@ class Header extends React.Component {
           }
 
           .logo {
-            border-radius: 65% 75%;
             border: 1px solid #eee;
             display: inline-block;
             height: 44px;
@@ -194,16 +193,6 @@ class Header extends React.Component {
 
                 h2 {
                   display: none;
-                }
-              }
-
-              &.homepage:not(.fixed) {
-                :global(a.logoType),
-                h1 {
-                  color: ${theme.color.neutral.white};
-                }
-                h2 {
-                  color: ${theme.color.neutral.gray.d};
                 }
               }
             }
