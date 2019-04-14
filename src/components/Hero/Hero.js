@@ -65,7 +65,7 @@ const Hero = props => {
         h3 {
           text-align: center;
           font-size: 22px;
-          margin: ${theme.space.stack.s};
+          margin: ${theme.space.stack.l};
           color:  ${theme.hero.h1.color};
           text-remove-gap: both 0 "Open Sans";
         }
@@ -91,9 +91,6 @@ const Hero = props => {
             fill: ${theme.color.neutral.white};
             stroke-width: 40;
             stroke: ${theme.color.neutral.white};
-            animation-duration: ${theme.time.duration.long};
-            animation-name: buttonIconMove;
-            animation-iteration-count: infinite;
           }
         }
 
