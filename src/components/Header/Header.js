@@ -195,16 +195,6 @@ class Header extends React.Component {
                   display: none;
                 }
               }
-
-              &.homepage:not(.fixed) {
-                :global(a.logoType),
-                h1 {
-                  color: ${theme.color.neutral.white};
-                }
-                h2 {
-                  color: ${theme.color.neutral.gray.d};
-                }
-              }
             }
 
             .header :global(a.logoType) {

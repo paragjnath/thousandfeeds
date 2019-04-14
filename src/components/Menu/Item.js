@@ -52,10 +52,6 @@ const Item = props => {
               border-radius: ${theme.size.radius.small};
             }
 
-            :global(.homepage):not(.fixed) & :global(a) {
-              color: ${theme.color.neutral.white};
-            }
-
             :global(a:hover) {
               color: ${theme.color.brand.primary};
               background: color(white alpha(-60%));
