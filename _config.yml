@@ -4,9 +4,9 @@ title: "Thousandfeeds"
 description: "Entities from different dimensions."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+#baseurl: /
 google_analytics: 'UA-46278016-1'
-disqus: 'thousandfeeds'
+disqus: 'paragjnath'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -23,9 +23,9 @@ authors:
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   parag:
     name: Parag Jyoti Nath
-    display_name: Parag    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    display_name: Parag
+    #avatar: 'assets/images/avatar.png'
+    gravatar: 5eba783a90884332b80820d154e52aec
     email: paragjnath@gmail.com
     web: https://thousandfeeds.com
     twitter: https://twitter.com/paragjnath
