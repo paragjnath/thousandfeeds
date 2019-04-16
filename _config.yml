@@ -3,7 +3,7 @@ name: "Thousandfeeds"
 title: "Thousandfeeds"
 description: "Entities from different dimensions."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/logo.jpg'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'thousandfeeds'
