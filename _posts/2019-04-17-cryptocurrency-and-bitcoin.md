@@ -16,4 +16,8 @@ The transactional records in Bitcoin is kept in a ledger. However it is not conf
 
 The decentralized nature of Bitcoin which makes it so powerful, unique and popular is also the reason why Government and other financial institute oppose it. Bitcoin can be easily used for money laundering, drug trafficking, illegal arms supply etc. The paradox being if it is regulated to check illegal activities then it loses its identity and essence. The era of blockchain has just started and cryptocurrency is just a part of it. Whether it is a revolution or just another technology only time will tell. 
 
+*Photo Credits* Photo by André François McKenzie on Unsplash
+
+
+
 
