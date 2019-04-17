@@ -3,7 +3,7 @@ layout: post
 title:  "Cryptocurrency and Bitcoin"
 author: barun
 categories: []
-image: assets/images/1.jpg
+image: assets/images/andre-francois-mckenzie-557614-unsplash
 ---
 # Cryptocurrency and Bitcoin
 Cryptocurrency is a form of digital currency or an asset which uses cryptography (*oxford dictionary*; the art of writing or solving codes) so as to make a transaction secure and anonymous. It is widely regarded as a revolution in itself, which is will pave the way for greater application of “Blockchain” in near future.
