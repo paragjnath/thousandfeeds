@@ -51,7 +51,14 @@ ga('send', 'pageview');
     <a class="navbar-brand" href="{{ site.baseurl }}/">
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
-    <!-- End Logo -->
+     <!-- End Logo -->
+
+    <!-- Begin Name -->
+    {% if page.url != "/" %}
+    <a href="{{ site.baseurl }}/" style="font-family: Righteous;">{{ site.name }}</a>
+    {% endif %}
+    <!-- End Name -->
+   
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -68,7 +75,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
                 </li>
 
                 <li class="nav-item">
@@ -92,6 +99,7 @@ ga('send', 'pageview');
 
 <div class="container">
 
+{% if page.url == "/" %}
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
@@ -100,6 +108,7 @@ ga('send', 'pageview');
         {{ site.description }}
     </p>
 </div>
+{% endif %}
 
 <!-- Content
 ================================================== -->
