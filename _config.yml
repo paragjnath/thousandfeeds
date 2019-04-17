@@ -1,36 +1,33 @@
 # Site
-name: 'Thousandfeeds'
-title: 'Thousandfeeds'
-description: 'Entities from different dimensions.'
+name: "Thousandfeeds"
+title: "Thousandfeeds"
+description: "Entities from different dimensions."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /
 google_analytics: 'UA-46278016-1'
-disqus: 'paragjnath'
+disqus: 'thousandfeeds'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ['_pages']
+include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
   barun:
     name: Barun
-    display_name: Barun
+    display_name: Barun Kalita
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.youtube.com
     twitter: https://twitter.com/wowthemesnet
-    description: 'Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo.'
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   parag:
     name: Parag Jyoti Nath
-    display_name: Parag
-    #avatar: 'assets/images/avatar.png'
-    gravatar: 5eba783a90884332b80820d154e52aec
+    display_name: Parag Jyoti Nath
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: paragjnath@gmail.com
-    web: https://www.linkedin.com/in/paragjyoti/
-    twitter: https://twitter.com/parag_jyoti
-    description: 'This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages.'
-  thousandfeeds:
+ thousandfeeds:
     name: Thousandfeeds
     display_name: Thousandfeeds
     #avatar: 'assets/images/avatar.png'
@@ -40,6 +37,10 @@ authors:
     twitter: https://twitter.com/thousandfeeds
     description: 'This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages.'
 
+    web: https://thousandfeeds.com
+    twitter: https://twitter.com/paragjnath
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -47,7 +48,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-
+    
 # Archives
 jekyll-archives:
   enabled:
@@ -55,11 +56,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-
-# Pagination
+    
+# Pagination 
 paginate: 6
 paginate_path: /page:num/
-
+    
 # Other
 markdown: kramdown
 
@@ -71,11 +72,11 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: 'disabled'
-adsense-data-ad-client: 'ca-pub-3412143450191416'
-adsense-data-ad-slot: '1363087678'
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: 'enabled'
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
