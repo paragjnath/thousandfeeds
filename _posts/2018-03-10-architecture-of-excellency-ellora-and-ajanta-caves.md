@@ -195,7 +195,7 @@ categories:
     </ul>
     
     <p>
-      <img class="aligncenter wp-image-145 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/AJANTA_CAVES_-_C.SHELARE_4.jpg" alt="" width="900" height="600" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/AJANTA_CAVES_-_C.SHELARE_4.jpg 900w, http://192.168.78.135:8000/wp-content/uploads/2018/03/AJANTA_CAVES_-_C.SHELARE_4-300x200.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/AJANTA_CAVES_-_C.SHELARE_4-768x512.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+      <img class="aligncenter wp-image-145 size-full" src="assets/uploads/2018/03/AJANTA_CAVES_-_C.SHELARE_4.jpg" alt="" width="900" height="600" srcset="assets/uploads/2018/03/AJANTA_CAVES_-_C.SHELARE_4.jpg 900w, assets/uploads/2018/03/AJANTA_CAVES_-_C.SHELARE_4-300x200.jpg 300w, assets/uploads/2018/03/AJANTA_CAVES_-_C.SHELARE_4-768x512.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
     </p>
     
     <p>
@@ -203,7 +203,7 @@ categories:
     </p>
     
     <p>
-      <img class="alignnone wp-image-146 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0370.jpg" alt="" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0370.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0370-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0370-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0370-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0370-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
+      <img class="alignnone wp-image-146 size-full" src="assets/uploads/2018/03/DSC_0370.jpg" alt="" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_0370.jpg 1600w, assets/uploads/2018/03/DSC_0370-300x199.jpg 300w, assets/uploads/2018/03/DSC_0370-768x508.jpg 768w, assets/uploads/2018/03/DSC_0370-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_0370-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
     </p>
     
     <ul>
@@ -213,7 +213,7 @@ categories:
     </ul>
     
     <p>
-      <img class="alignnone wp-image-147 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/KailashTemple.jpg" alt="" width="1200" height="901" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/KailashTemple.jpg 1200w, http://192.168.78.135:8000/wp-content/uploads/2018/03/KailashTemple-300x225.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/KailashTemple-768x577.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/KailashTemple-1024x769.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />
+      <img class="alignnone wp-image-147 size-full" src="assets/uploads/2018/03/KailashTemple.jpg" alt="" width="1200" height="901" srcset="assets/uploads/2018/03/KailashTemple.jpg 1200w, assets/uploads/2018/03/KailashTemple-300x225.jpg 300w, assets/uploads/2018/03/KailashTemple-768x577.jpg 768w, assets/uploads/2018/03/KailashTemple-1024x769.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />
     </p>
     
     <ul>
@@ -223,7 +223,7 @@ categories:
     </ul>
     
     <p>
-      <img class="alignnone wp-image-148 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0448.jpg" alt="" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0448.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0448-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0448-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0448-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0448-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
+      <img class="alignnone wp-image-148 size-full" src="assets/uploads/2018/03/DSC_0448.jpg" alt="" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_0448.jpg 1600w, assets/uploads/2018/03/DSC_0448-300x199.jpg 300w, assets/uploads/2018/03/DSC_0448-768x508.jpg 768w, assets/uploads/2018/03/DSC_0448-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_0448-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
     </p>
     
     <ul>
@@ -233,7 +233,7 @@ categories:
     </ul>
     
     <p>
-      <img class="alignnone wp-image-149 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/1440076557_1.jpg" alt="" width="750" height="500" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/1440076557_1.jpg 750w, http://192.168.78.135:8000/wp-content/uploads/2018/03/1440076557_1-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />
+      <img class="alignnone wp-image-149 size-full" src="assets/uploads/2018/03/1440076557_1.jpg" alt="" width="750" height="500" srcset="assets/uploads/2018/03/1440076557_1.jpg 750w, assets/uploads/2018/03/1440076557_1-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />
     </p>
     
     <ul>
@@ -246,7 +246,7 @@ categories:
     </ul>
     
     <p>
-      <img class="alignnone wp-image-150 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171216_184636463.jpg" alt="" width="1600" height="900" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171216_184636463.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171216_184636463-300x169.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171216_184636463-768x432.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171216_184636463-1024x576.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171216_184636463-1568x882.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
+      <img class="alignnone wp-image-150 size-full" src="assets/uploads/2018/03/IMG_20171216_184636463.jpg" alt="" width="1600" height="900" srcset="assets/uploads/2018/03/IMG_20171216_184636463.jpg 1600w, assets/uploads/2018/03/IMG_20171216_184636463-300x169.jpg 300w, assets/uploads/2018/03/IMG_20171216_184636463-768x432.jpg 768w, assets/uploads/2018/03/IMG_20171216_184636463-1024x576.jpg 1024w, assets/uploads/2018/03/IMG_20171216_184636463-1568x882.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
     </p>
     
     <div>
@@ -256,7 +256,7 @@ categories:
     </div>
     
     <div>
-       <img class="alignnone wp-image-151 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0325.jpg" alt="" width="1600" height="835" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0325.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0325-300x157.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0325-768x401.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0325-1024x534.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0325-1568x818.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
+       <img class="alignnone wp-image-151 size-full" src="assets/uploads/2018/03/DSC_0325.jpg" alt="" width="1600" height="835" srcset="assets/uploads/2018/03/DSC_0325.jpg 1600w, assets/uploads/2018/03/DSC_0325-300x157.jpg 300w, assets/uploads/2018/03/DSC_0325-768x401.jpg 768w, assets/uploads/2018/03/DSC_0325-1024x534.jpg 1024w, assets/uploads/2018/03/DSC_0325-1568x818.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
     </div>
     
     <div>
@@ -333,7 +333,7 @@ categories:
       </div>
       
       <p>
-        <img class="alignnone wp-image-144 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171217_141815283.jpg" alt="" width="1600" height="900" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171217_141815283.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171217_141815283-300x169.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171217_141815283-768x432.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171217_141815283-1024x576.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171217_141815283-1568x882.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
+        <img class="alignnone wp-image-144 size-full" src="assets/uploads/2018/03/IMG_20171217_141815283.jpg" alt="" width="1600" height="900" srcset="assets/uploads/2018/03/IMG_20171217_141815283.jpg 1600w, assets/uploads/2018/03/IMG_20171217_141815283-300x169.jpg 300w, assets/uploads/2018/03/IMG_20171217_141815283-768x432.jpg 768w, assets/uploads/2018/03/IMG_20171217_141815283-1024x576.jpg 1024w, assets/uploads/2018/03/IMG_20171217_141815283-1568x882.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
       </p>
     </div>
   </div>

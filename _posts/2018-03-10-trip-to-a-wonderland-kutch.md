@@ -21,7 +21,7 @@ If you have already read my last posts, until now I was visiting old monuments, 
 
 I was always fascinated by the skylight, illuminating fields and spreading it&#8217;s edge beyond end. The moonlight and the silver salty desert fulfilled my dream. When I was about to reach, I was stunned looking at the evening sky, as it was the daylight wishing all good-bye and eventually the night sky is waking up from a beautiful dream.<!--more-->
 
-<img class="alignnone wp-image-170 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0482-2.jpg" alt="" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0482-2.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0482-2-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0482-2-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0482-2-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0482-2-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />  
+<img class="alignnone wp-image-170 size-full" src="assets/uploads/2018/03/DSC_0482-2.jpg" alt="" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_0482-2.jpg 1600w, assets/uploads/2018/03/DSC_0482-2-300x199.jpg 300w, assets/uploads/2018/03/DSC_0482-2-768x508.jpg 768w, assets/uploads/2018/03/DSC_0482-2-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_0482-2-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />  
 <!--more-->
 
 Now, I&#8217;ll walk you through my journey to this mysteries place,<!--more-->
@@ -32,12 +32,12 @@ Now, I&#8217;ll walk you through my journey to this mysteries place,<!--more-->
 
 People visiting Kutch in summer would find uncomfortable weather however, the winter is pleasant. I would advice you to visit by November to February and you will be able to attend the great Kutch festival, Rann Utsav.
 
-<img class="alignnone wp-image-171 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/r2d2.jpg" alt="" width="1600" height="647" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/r2d2.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/r2d2-300x121.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/r2d2-768x311.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/r2d2-1024x414.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/r2d2-1568x634.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />  
+<img class="alignnone wp-image-171 size-full" src="assets/uploads/2018/03/r2d2.jpg" alt="" width="1600" height="647" srcset="assets/uploads/2018/03/r2d2.jpg 1600w, assets/uploads/2018/03/r2d2-300x121.jpg 300w, assets/uploads/2018/03/r2d2-768x311.jpg 768w, assets/uploads/2018/03/r2d2-1024x414.jpg 1024w, assets/uploads/2018/03/r2d2-1568x634.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />  
 <!--more-->
 
 I have been there in the month of December and let me tell you guys, the nighttide of cold breeze with the musical magnitude on the desert is splendid.
 
-<img class="alignnone size-full wp-image-177" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0533-1.jpg" alt="" width="1600" height="636" />  
+<img class="alignnone size-full wp-image-177" src="assets/uploads/2018/03/DSC_0533-1.jpg" alt="" width="1600" height="636" />  
 <!--more-->
 
 **1. How to reach Kutch:  **  
@@ -98,7 +98,7 @@ I have been there in the month of December and let me tell you guys, the nightti
   </p>
   
   <p>
-    <img class="alignnone size-full wp-image-173" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/34.jpg" alt="" width="1600" height="1060" /><br /> <!--more-->
+    <img class="alignnone size-full wp-image-173" src="assets/uploads/2018/03/34.jpg" alt="" width="1600" height="1060" /><br /> <!--more-->
   </p>
   
   <p>
@@ -106,7 +106,7 @@ I have been there in the month of December and let me tell you guys, the nightti
   </p>
   
   <p>
-    <img class="alignnone size-full wp-image-174" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0544.jpg" alt="" width="1600" height="1059" />
+    <img class="alignnone size-full wp-image-174" src="assets/uploads/2018/03/DSC_0544.jpg" alt="" width="1600" height="1059" />
   </p>
   
   <div data-blogger-escaped-style="text-align: justify;">
@@ -152,15 +152,15 @@ I have been there in the month of December and let me tell you guys, the nightti
   </div>
   
   <p>
-    And for girls, its the shopping experience, <img class="alignnone size-full wp-image-175" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0530.jpg" alt="" width="1600" height="1059" />
+    And for girls, its the shopping experience, <img class="alignnone size-full wp-image-175" src="assets/uploads/2018/03/DSC_0530.jpg" alt="" width="1600" height="1059" />
   </p>
   
   <p>
-    <img class="alignnone size-full wp-image-178" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0531.jpg" alt="" width="1059" height="1600" />
+    <img class="alignnone size-full wp-image-178" src="assets/uploads/2018/03/DSC_0531.jpg" alt="" width="1059" height="1600" />
   </p>
   
   <p>
-    <img class="alignnone size-full wp-image-179" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0541.jpg" alt="" width="1600" height="1059" /><br /> <!--more-->
+    <img class="alignnone size-full wp-image-179" src="assets/uploads/2018/03/DSC_0541.jpg" alt="" width="1600" height="1059" /><br /> <!--more-->
   </p>
   
   <p>
@@ -168,7 +168,7 @@ I have been there in the month of December and let me tell you guys, the nightti
   </p>
   
   <p>
-    <img class="alignnone size-full wp-image-180" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0511.jpg" alt="" width="1600" height="1059" /><br /> <!--more-->
+    <img class="alignnone size-full wp-image-180" src="assets/uploads/2018/03/DSC_0511.jpg" alt="" width="1600" height="1059" /><br /> <!--more-->
   </p>
   
   <p>
@@ -176,7 +176,7 @@ I have been there in the month of December and let me tell you guys, the nightti
   </p>
   
   <p>
-    <img class="alignnone size-full wp-image-181" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0546-1.jpg" alt="" width="1600" height="1002" />
+    <img class="alignnone size-full wp-image-181" src="assets/uploads/2018/03/DSC_0546-1.jpg" alt="" width="1600" height="1002" />
   </p>
   
   <p>

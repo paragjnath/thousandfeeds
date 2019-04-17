@@ -239,7 +239,7 @@ categories:
     </ul>
     
     <p>
-      <img class="wp-image-116 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0346.jpg" alt="" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0346.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0346-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0346-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0346-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0346-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
+      <img class="wp-image-116 size-full" src="assets/uploads/2018/03/DSC_0346.jpg" alt="" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_0346.jpg 1600w, assets/uploads/2018/03/DSC_0346-300x199.jpg 300w, assets/uploads/2018/03/DSC_0346-768x508.jpg 768w, assets/uploads/2018/03/DSC_0346-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_0346-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
     </p>
   </div>
 </div>
@@ -249,7 +249,7 @@ categories:
   * Pampa sarovar: On the way to Anjana Parvat.
   * Kaali Mandir and Naga caves: On the way to Anjana Parvat. Don&#8217;t miss the amazing Banyan tree.
 
-<img class="wp-image-117 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0388.jpg" alt="dfdgd" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0388.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0388-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0388-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0388-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0388-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
+<img class="wp-image-117 size-full" src="assets/uploads/2018/03/DSC_0388.jpg" alt="dfdgd" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_0388.jpg 1600w, assets/uploads/2018/03/DSC_0388-300x199.jpg 300w, assets/uploads/2018/03/DSC_0388-768x508.jpg 768w, assets/uploads/2018/03/DSC_0388-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_0388-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
 
   * Bhimas Gate: The Mighty lamp post which used to en-light the whole place.
 
@@ -265,7 +265,7 @@ categories:
   * Queens Bath
   * Chandrashekhar Temple, Saraswati temple along and Octagonal Bath.
 
-<img class="alignnone wp-image-118 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0499.jpg" alt="" width="1600" height="584" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0499.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0499-300x110.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0499-768x280.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0499-1024x374.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0499-1568x572.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> <!--more-->
+<img class="alignnone wp-image-118 size-full" src="assets/uploads/2018/03/DSC_0499.jpg" alt="" width="1600" height="584" srcset="assets/uploads/2018/03/DSC_0499.jpg 1600w, assets/uploads/2018/03/DSC_0499-300x110.jpg 300w, assets/uploads/2018/03/DSC_0499-768x280.jpg 768w, assets/uploads/2018/03/DSC_0499-1024x374.jpg 1024w, assets/uploads/2018/03/DSC_0499-1568x572.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> <!--more-->
 
 <div>
   These places are together, like some half miles apart. You can take a walk and visit.
@@ -282,7 +282,7 @@ categories:
 
   * Vitthala Tample: The mighty Stone Chariot.
 
-<img class="alignnone wp-image-119 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0536.jpg" alt="" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0536.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0536-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0536-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0536-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0536-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
+<img class="alignnone wp-image-119 size-full" src="assets/uploads/2018/03/DSC_0536.jpg" alt="" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_0536.jpg 1600w, assets/uploads/2018/03/DSC_0536-300x199.jpg 300w, assets/uploads/2018/03/DSC_0536-768x508.jpg 768w, assets/uploads/2018/03/DSC_0536-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_0536-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
 
   * Kings Balance
   * Warriors temple
@@ -305,11 +305,11 @@ categories:
   * Mahanavami Dibba: The secret chamber in which kind used to held all his secret meetings.
   * Hazararama Temple: The granite stone sculptures.
 
-<img class="alignnone wp-image-121 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0710.jpg" alt="" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0710.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0710-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0710-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0710-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0710-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
+<img class="alignnone wp-image-121 size-full" src="assets/uploads/2018/03/DSC_0710.jpg" alt="" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_0710.jpg 1600w, assets/uploads/2018/03/DSC_0710-300x199.jpg 300w, assets/uploads/2018/03/DSC_0710-768x508.jpg 768w, assets/uploads/2018/03/DSC_0710-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_0710-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
 
   * Lotus Mahal, Elephant Stable, Ranga Tample.
 
-<img class="alignnone wp-image-122 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0739.jpg" alt="" width="1600" height="923" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0739.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0739-300x173.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0739-768x443.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0739-1024x591.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0739-1568x905.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
+<img class="alignnone wp-image-122 size-full" src="assets/uploads/2018/03/DSC_0739.jpg" alt="" width="1600" height="923" srcset="assets/uploads/2018/03/DSC_0739.jpg 1600w, assets/uploads/2018/03/DSC_0739-300x173.jpg 300w, assets/uploads/2018/03/DSC_0739-768x443.jpg 768w, assets/uploads/2018/03/DSC_0739-1024x591.jpg 1024w, assets/uploads/2018/03/DSC_0739-1568x905.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
 
   * Underground Shiva Mandir
 
@@ -326,25 +326,25 @@ categories:
 
   * Lakshmi Narasimha Temple
 
-<img class="alignnone wp-image-123 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0817.jpg" alt="" width="1059" height="1600" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0817.jpg 1059w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0817-199x300.jpg 199w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0817-768x1160.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0817-678x1024.jpg 678w" sizes="(max-width: 1059px) 100vw, 1059px" /> 
+<img class="alignnone wp-image-123 size-full" src="assets/uploads/2018/03/DSC_0817.jpg" alt="" width="1059" height="1600" srcset="assets/uploads/2018/03/DSC_0817.jpg 1059w, assets/uploads/2018/03/DSC_0817-199x300.jpg 199w, assets/uploads/2018/03/DSC_0817-768x1160.jpg 768w, assets/uploads/2018/03/DSC_0817-678x1024.jpg 678w" sizes="(max-width: 1059px) 100vw, 1059px" /> 
 
   * Shashivekalu Ganesha7
   * Kadlekalu Ganesha, Krishna Temple, Hemakuta Temple
   * Virupaksha Temple: The most important one. Shocking fact is no one knows who made this temple and when. This temple was inaugurated alot of times however no one knows its age. The cultural freshness is splendid.
 
-<img class="alignnone wp-image-125 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0870.jpg" alt="" width="1337" height="1600" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0870.jpg 1337w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0870-251x300.jpg 251w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0870-768x919.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0870-856x1024.jpg 856w" sizes="(max-width: 1337px) 100vw, 1337px" /> <!--more-->
+<img class="alignnone wp-image-125 size-full" src="assets/uploads/2018/03/DSC_0870.jpg" alt="" width="1337" height="1600" srcset="assets/uploads/2018/03/DSC_0870.jpg 1337w, assets/uploads/2018/03/DSC_0870-251x300.jpg 251w, assets/uploads/2018/03/DSC_0870-768x919.jpg 768w, assets/uploads/2018/03/DSC_0870-856x1024.jpg 856w" sizes="(max-width: 1337px) 100vw, 1337px" /> <!--more-->
 
 You may also visit the Museum. The collection of statue, writings in copper slab and amazing collection of hundreds of years old sculptures are incredible.<!--more-->
 
-<img class="alignnone wp-image-115 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0027.jpg" alt="" width="1600" height="1156" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0027.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0027-300x217.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0027-768x555.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0027-1024x740.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0027-1568x1133.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> <!--more-->
+<img class="alignnone wp-image-115 size-full" src="assets/uploads/2018/03/DSC_0027.jpg" alt="" width="1600" height="1156" srcset="assets/uploads/2018/03/DSC_0027.jpg 1600w, assets/uploads/2018/03/DSC_0027-300x217.jpg 300w, assets/uploads/2018/03/DSC_0027-768x555.jpg 768w, assets/uploads/2018/03/DSC_0027-1024x740.jpg 1024w, assets/uploads/2018/03/DSC_0027-1568x1133.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> <!--more-->
 
-<img class="alignnone wp-image-127 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_1009.jpg" alt="" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_1009.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_1009-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_1009-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_1009-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_1009-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> <!--more-->
+<img class="alignnone wp-image-127 size-full" src="assets/uploads/2018/03/DSC_1009.jpg" alt="" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_1009.jpg 1600w, assets/uploads/2018/03/DSC_1009-300x199.jpg 300w, assets/uploads/2018/03/DSC_1009-768x508.jpg 768w, assets/uploads/2018/03/DSC_1009-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_1009-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> <!--more-->
 
 ( Sorry guys, inside the museum photography is not allowed.)
 
 Don&#8217;t miss out the dam on the river Tungabhadra. Try to reach there in evening, you might be witness the musical water fountain.<!--more-->
 
-<img class="alignnone wp-image-126 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0910.jpg" alt="" width="1600" height="1059" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0910.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0910-300x199.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0910-768x508.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0910-1024x678.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0910-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> <!--more-->
+<img class="alignnone wp-image-126 size-full" src="assets/uploads/2018/03/DSC_0910.jpg" alt="" width="1600" height="1059" srcset="assets/uploads/2018/03/DSC_0910.jpg 1600w, assets/uploads/2018/03/DSC_0910-300x199.jpg 300w, assets/uploads/2018/03/DSC_0910-768x508.jpg 768w, assets/uploads/2018/03/DSC_0910-1024x678.jpg 1024w, assets/uploads/2018/03/DSC_0910-1568x1038.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" /> <!--more-->
 
 <div>
   <u><b>4. Local Map:</b></u>
@@ -366,7 +366,7 @@ Don&#8217;t miss out the dam on the river Tungabhadra. Try to reach there in eve
 </div>
 
 <div>
-  <img class="wp-image-128 size-full aligncenter" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-06-at-6.45.39-PM.jpeg" alt="" width="559" height="514" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-06-at-6.45.39-PM.jpeg 559w, http://192.168.78.135:8000/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-06-at-6.45.39-PM-300x276.jpeg 300w" sizes="(max-width: 559px) 100vw, 559px" />
+  <img class="wp-image-128 size-full aligncenter" src="assets/uploads/2018/03/WhatsApp-Image-2018-03-06-at-6.45.39-PM.jpeg" alt="" width="559" height="514" srcset="assets/uploads/2018/03/WhatsApp-Image-2018-03-06-at-6.45.39-PM.jpeg 559w, assets/uploads/2018/03/WhatsApp-Image-2018-03-06-at-6.45.39-PM-300x276.jpeg 300w" sizes="(max-width: 559px) 100vw, 559px" />
 </div>
 
 <!--more-->
@@ -392,7 +392,7 @@ Don&#8217;t miss out the dam on the river Tungabhadra. Try to reach there in eve
 </div>
 
 <div>
-  <img class="alignnone wp-image-120 size-full" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0574.jpg" alt="" width="1600" height="841" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0574.jpg 1600w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0574-300x158.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0574-768x404.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0574-1024x538.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/DSC_0574-1568x824.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
+  <img class="alignnone wp-image-120 size-full" src="assets/uploads/2018/03/DSC_0574.jpg" alt="" width="1600" height="841" srcset="assets/uploads/2018/03/DSC_0574.jpg 1600w, assets/uploads/2018/03/DSC_0574-300x158.jpg 300w, assets/uploads/2018/03/DSC_0574-768x404.jpg 768w, assets/uploads/2018/03/DSC_0574-1024x538.jpg 1024w, assets/uploads/2018/03/DSC_0574-1568x824.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" />
 </div>
 
 <div>
@@ -408,6 +408,6 @@ Don&#8217;t miss out the dam on the river Tungabhadra. Try to reach there in eve
 
 <span style="font-size: 14px;">Travel contents are brought you by Aminul Islam.</span>
 
-<span style="font-size: 14px;">Visit : <a href="https://nomadnameru.blogspot.in/">https://nomadnameru.blogspot.in/</a></span><img class="alignright wp-image-199" src="http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171112_120456097-300x197.jpg" alt="" width="210" height="138" srcset="http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171112_120456097-300x197.jpg 300w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171112_120456097-768x505.jpg 768w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171112_120456097-1024x674.jpg 1024w, http://192.168.78.135:8000/wp-content/uploads/2018/03/IMG_20171112_120456097-1568x1032.jpg 1568w" sizes="(max-width: 210px) 100vw, 210px" />
+<span style="font-size: 14px;">Visit : <a href="assets/uploads/2018/03/IMG_20171112_120456097-300x197.jpg" alt="" width="210" height="138" srcset="assets/uploads/2018/03/IMG_20171112_120456097-300x197.jpg 300w, assets/uploads/2018/03/IMG_20171112_120456097-768x505.jpg 768w, assets/uploads/2018/03/IMG_20171112_120456097-1024x674.jpg 1024w, assets/uploads/2018/03/IMG_20171112_120456097-1568x1032.jpg 1568w" sizes="(max-width: 210px) 100vw, 210px" />
 
 facebook:  <https://www.facebook.com/er.aminul>
