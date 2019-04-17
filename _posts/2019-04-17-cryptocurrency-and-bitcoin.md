@@ -5,7 +5,7 @@ author: barun
 categories: []
 image: assets/images/andre-francois-mckenzie-557614-unsplash
 ---
-# Cryptocurrency and Bitcoin
+
 Cryptocurrency is a form of digital currency or an asset which uses cryptography (*oxford dictionary*; the art of writing or solving codes) so as to make a transaction secure and anonymous. It is widely regarded as a revolution in itself, which is will pave the way for greater application of “Blockchain” in near future.
 
 Blockchain, invented by a mysterious man known by the name Satoshi Nakamoto whose real identity is not known till date. It is a growing list of blocks/nodes which are interconnected and secured using cryptography. Each nodes contains specific information which is cryptic and unique in nature. The most amazing fundamental feature of Blockchain is that it is not easy to be manipulated. 
