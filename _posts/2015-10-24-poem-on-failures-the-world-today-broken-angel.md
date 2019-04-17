@@ -18,7 +18,7 @@ categories:
 
 Every person is angel for the other but will they be with you when you are a Broken Angel. Just a poem on failures, a dark reality, the world today.
 
-[<img class="alignnone size-full wp-image-766" src="http://web.archive.org/web/20151128135858im_/http://192.168.78.135:8000/wp-content/uploads/2015/10/poem-on-failures-broken-angel.jpg" alt="poem on failures, broken angel" width="600" height="350" />](http://web.archive.org/web/20151128135858/http://192.168.78.135:8000/wp-content/uploads/2015/10/poem-on-failures-broken-angel.jpg)
+[<img class="alignnone size-full wp-image-766" src="assets/uploads/2015/10/poem-on-failures-broken-angel.jpg" alt="poem on failures, broken angel" width="600" height="350" />](assets/uploads/2015/10/poem-on-failures-broken-angel.jpg)
 
 #### BROKEN ANGEL
 

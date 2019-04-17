@@ -119,7 +119,7 @@ Especially the man or the boy!!..
 
 &nbsp;
 
-[<img class="aligncenter size-large wp-image-606" src="http://web.archive.org/web/20151206111211im_/http://thousandfeeds.com/wp-content/uploads/2015/10/Footmark-1024x640.jpg" alt="Footmark under the yellow sky" width="660" height="413" />](http://web.archive.org/web/20151206111211/http://thousandfeeds.com/wp-content/uploads/2015/10/Footmark.jpg)
+[<img class="aligncenter size-large wp-image-606" src="assets/uploads/2015/10/Footmark-1024x640.jpg" alt="Footmark under the yellow sky" width="660" height="413" />](assets/uploads/2015/10/Footmark.jpg)
 
 &nbsp;
 

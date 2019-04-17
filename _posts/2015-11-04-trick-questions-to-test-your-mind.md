@@ -28,7 +28,7 @@ _**1. Two boys were born on the same time, in the same day, in the same year and
 
 _**2. A blind beggar had a sister who died. What relation was the blind beggar to the sister who died. But let me remind you “sister” is not the answer.**_
 
-[<img class="alignnone size-full wp-image-826" src="http://web.archive.org/web/20151204190405im_/http://192.168.78.135:8000/wp-content/uploads/2015/11/blind-beggar-trick-questions.jpg" alt="blind beggar, trick questions" width="600" height="350" />](http://web.archive.org/web/20151204190405/http://192.168.78.135:8000/wp-content/uploads/2015/11/blind-beggar-trick-questions.jpg)
+[<img class="alignnone size-full wp-image-826" src="assets/uploads/2015/11/blind-beggar-trick-questions.jpg" alt="blind beggar, trick questions" width="600" height="350" />](assets/uploads/2015/11/blind-beggar-trick-questions.jpg)
 
 &nbsp;
 
