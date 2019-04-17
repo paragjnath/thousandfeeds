@@ -6,15 +6,9 @@ author: barun
 layout: post
 guid: https://thousandfeeds.wordpress.com/?p=35
 permalink: /2017/04/29/flickering-lamp/
-colormag_page_layout:
-  - default_layout
-  - default_layout
-  - default_layout
-image: /wp-content/uploads/2017/04/lantern-in-blurry-light-photography-hd-wallpaper-2880x1800-78411-800x445.jpg
+image: assets/uploads/2017/04/lantern-in-blurry-light-photography-hd-wallpaper-2880x1800-78411-800x445.jpg
 categories:
   - Writings
-tags:
-  - Barun Kalita
 ---
 ## **A short story: Flickering Lamp**
 

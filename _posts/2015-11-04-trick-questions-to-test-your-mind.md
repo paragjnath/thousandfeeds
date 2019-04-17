@@ -4,13 +4,8 @@ title: Trick questions to test your mind
 date: 2015-11-04T05:23:35+00:00
 author: thousandfeeds
 layout: post
-guid: http://thousandfeeds.com/?p=81
 permalink: /2015/11/04/trick-questions-to-test-your-mind/
-colormag_page_layout:
-  - default_layout
-  - default_layout
-  - default_layout
-image: /wp-content/uploads/2015/11/blind-beggar-trick-questions.jpg
+image: assets/uploads/2015/11/blind-beggar-trick-questions.jpg
 categories:
   - BRAIN BUSTERS
 ---

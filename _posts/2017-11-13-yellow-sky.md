@@ -4,15 +4,10 @@ title: Yellow Sky
 date: 2017-11-13T05:46:11+00:00
 author: thousandfeeds
 layout: post
-guid: http://thousandfeeds.com/?p=91
 permalink: /2017/11/13/yellow-sky/
-colormag_page_layout:
-  - default_layout
-  - default_layout
-  - default_layout
-image: /wp-content/uploads/2017/11/unnamed-800x445.jpg
+image: assets/uploads/2017/11/unnamed-800x445.jpg
 categories:
-  - Uncategorized
+  - Writings
 ---
 _A poem about the small boys and girls living on the banks of sea who develops a fantasy about it. The yellow sky makes them merry and joyful. Theses kids living under the yellow sky dreams of  sun and water. At times they start enjoying this fantasy so much that there is no return to the real life!_
 

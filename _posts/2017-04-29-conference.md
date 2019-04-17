@@ -6,15 +6,9 @@ author: barun
 layout: post
 guid: https://thousandfeeds.wordpress.com/?p=53
 permalink: /2017/04/29/conference/
-colormag_page_layout:
-  - default_layout
-  - default_layout
-  - default_layout
-image: /wp-content/uploads/2017/04/galaxy-11098_640.jpg
+image: assets/uploads/2017/04/galaxy-11098_640.jpg
 categories:
   - Writings
-tags:
-  - Barun Kalita
 ---
 _The rush of the people, media and followers had started to slowly fade away from my life after an extravagant interest and attention from all over the world on my works   in the Engineering Field. A Nobel Laureate, it was_  
 _very nice to be a part of this distinguish philosophers, scholars and thinkers of all time. It was a matter of great_  

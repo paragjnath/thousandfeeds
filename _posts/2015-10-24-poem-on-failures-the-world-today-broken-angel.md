@@ -4,21 +4,14 @@ title: 'Poem on failures ,the world today: Broken angel'
 date: 2015-10-24T05:16:44+00:00
 author: thousandfeeds
 layout: post
-guid: http://thousandfeeds.com/?p=79
 permalink: /2015/10/24/poem-on-failures-the-world-today-broken-angel/
-colormag_page_layout:
-  - default_layout
-  - default_layout
-  - default_layout
-image: /wp-content/uploads/2015/10/poem-on-failures-broken-angel.jpg
+image: assets/uploads/2015/10/poem-on-failures-broken-angel.jpg
 categories:
   - Writings
 ---
 ## Everyone is expected to do something great but at every corner he/she is criticized, pulled down, taunted every time when a failures comes the way. Here a poem on failures to show how the world treats a failed person.
 
 Every person is angel for the other but will they be with you when you are a Broken Angel. Just a poem on failures, a dark reality, the world today.
-
-[<img class="alignnone size-full wp-image-766" src="assets/uploads/2015/10/poem-on-failures-broken-angel.jpg" alt="poem on failures, broken angel" width="600" height="350" />](assets/uploads/2015/10/poem-on-failures-broken-angel.jpg)
 
 #### BROKEN ANGEL
 
@@ -40,8 +33,6 @@ Battered to the ground the hearts frozen
 The world left it to be own its own_**  
 **_All alone_**  
 **_Out from the edge falls the broken angel!_**
-
-&nbsp;
 
 &nbsp;
 

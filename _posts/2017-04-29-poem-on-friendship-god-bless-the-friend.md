@@ -2,19 +2,13 @@
 id: 46
 title: 'Poem on friendship : God bless the friend'
 date: 2017-04-29T15:04:33+00:00
-author: zengkaso
+author: thousandfeeds
 layout: post
 guid: https://thousandfeeds.wordpress.com/?p=46
 permalink: /2017/04/29/poem-on-friendship-god-bless-the-friend/
-colormag_page_layout:
-  - default_layout
-  - default_layout
-  - default_layout
-image: /wp-content/uploads/2017/04/poem-on-friendship-1.jpg
+image: assets/uploads/2017/04/poem-on-friendship-1.jpg
 categories:
   - Writings
-tags:
-  - Kharan Basumatary
 ---
 The most precious thing after family in our life is friends and their never ending friendship. Its hard to find true friends but when you find one our life never remains the same.
 
