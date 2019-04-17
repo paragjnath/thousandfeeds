@@ -4,7 +4,6 @@ title: "Thousandfeeds"
 description: "Entities from different dimensions."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-#baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'thousandfeeds'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -27,11 +26,13 @@ authors:
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: paragjnath@gmail.com
- thousandfeeds:
+    web: https://thousandfeeds.com
+    twitter: https://twitter.com/paragjnath
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  thousandfeeds:
     name: Thousandfeeds
     display_name: Thousandfeeds
-    #avatar: 'assets/images/avatar.png'
-    gravatar: 5eba783a90884332b80820d154e52aec
+    avatar: 'assets/images/logo.png'
     email: thousanfeeds@gmail.com
     web: https://thousandfeeds.com
     twitter: https://twitter.com/thousandfeeds
@@ -40,6 +41,7 @@ authors:
     web: https://thousandfeeds.com
     twitter: https://twitter.com/paragjnath
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+
 
 # Plugins
 plugins:

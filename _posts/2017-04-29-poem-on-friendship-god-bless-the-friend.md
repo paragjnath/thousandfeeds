@@ -4,7 +4,6 @@ title: 'Poem on friendship : God bless the friend'
 date: 2017-04-29T15:04:33+00:00
 author: thousandfeeds
 layout: post
-guid: https://thousandfeeds.wordpress.com/?p=46
 permalink: /2017/04/29/poem-on-friendship-god-bless-the-friend/
 image: assets/uploads/2017/04/poem-on-friendship-1.jpg
 categories:

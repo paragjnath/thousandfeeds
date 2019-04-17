@@ -2,6 +2,7 @@
 layout: post
 title:  "Cryptocurrency and Bitcoin"
 author: barun
+featured: true
 categories: []
 image: assets/images/cryptocurrency.jpg
 ---

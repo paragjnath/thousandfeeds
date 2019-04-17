@@ -4,7 +4,6 @@ title: CONFERENCE
 date: 2017-04-29T15:10:35+00:00
 author: barun
 layout: post
-guid: https://thousandfeeds.wordpress.com/?p=53
 permalink: /2017/04/29/conference/
 image: assets/uploads/2017/04/galaxy-11098_640.jpg
 categories:

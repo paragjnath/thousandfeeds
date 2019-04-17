@@ -71,14 +71,6 @@ Yet the sun smiles upon him and bids him goodbye.
 
 &nbsp;
 
-  
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8026145480801361"
-     data-ad-slot="3028437570"></ins>  
-
 
 (This was his life daily life. The sun glows and makes the sky yellow, gives the sea a golden film for years yet it remains the same but the boy has become a man today.)
 
@@ -111,10 +103,6 @@ for they knew it will be left alone under the dark sky
 With none to walk beside them
 
 Especially the man or the boy!!..
-
-&nbsp;
-
-[<img class="aligncenter size-large wp-image-606" src="assets/uploads/2015/10/Footmark-1024x640.jpg" alt="Footmark under the yellow sky" width="660" height="413" />](assets/uploads/2015/10/Footmark.jpg)
 
 &nbsp;
 

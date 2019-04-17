@@ -4,7 +4,6 @@ title: Flickering Lamp
 date: 2017-04-29T14:52:39+00:00
 author: barun
 layout: post
-guid: https://thousandfeeds.wordpress.com/?p=35
 permalink: /2017/04/29/flickering-lamp/
 image: assets/uploads/2017/04/lantern-in-blurry-light-photography-hd-wallpaper-2880x1800-78411-800x445.jpg
 categories:
