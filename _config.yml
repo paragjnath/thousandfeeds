@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   barun:
     name: Barun
-    display_name: Barun
+    display_name: Barun Kalita
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.youtube.com
@@ -23,7 +23,7 @@ authors:
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   parag:
     name: Parag Jyoti Nath
-    display_name: Parag    
+    display_name: Parag Jyoti Nath
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: paragjnath@gmail.com
