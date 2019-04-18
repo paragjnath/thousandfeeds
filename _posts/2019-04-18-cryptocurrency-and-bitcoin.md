@@ -4,7 +4,7 @@ title: Physics was always like scifi and it always will be!
 author: parag
 featured: true
 categories: []
-image: assets/images/cryptocurrency.jpg
+image: assets/uploads/bryan-goff-395922-unsplash.jpg
 
 ---
 We have all seen the movie Interstellar. If not all, many of us have seen. But how many of us actually have understood the science going on in this movie. This movie has all the stuffs from time dilution to time travel, from 3rd to beyond 4th dimensions. Do you literally believe in these scifi stuffs? Although those have been a little exaggerated but those are not something completely fiction.
