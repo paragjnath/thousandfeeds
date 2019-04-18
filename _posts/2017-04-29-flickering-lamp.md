@@ -1,13 +1,14 @@
 ---
 id: 35
 title: Flickering Lamp
-date: 2017-04-29T14:52:39+00:00
+date: 2017-04-29 14:52:39 +0000
 author: barun
 layout: post
-permalink: /2017/04/29/flickering-lamp/
+permalink: "/2017/04/29/flickering-lamp/"
 image: assets/uploads/2017/04/lantern-in-blurry-light-photography-hd-wallpaper-2880x1800-78411-800x445.jpg
 categories:
-  - Writings
+- Writings
+
 ---
 ## **A short story: Flickering Lamp**
 
@@ -19,7 +20,7 @@ it off every now and then it is a matter of question today, whether coming this 
 
 these resilience meant anything now?
 
-&nbsp;
+ 
 
 The serene night where one loves to sleep in the bosom of moonlight seems most
 
@@ -37,4 +38,4 @@ The lamp is dying with every passing second. It is flickering, trying its best t
 
 The dark corner will be darkened forever with only a red flesh pumping lifelessly.
 
-&nbsp;
+ 
