@@ -4,7 +4,7 @@ title: "Thousandfeeds"
 description: "Entities from different dimensions."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-64548998-1'
 disqus: 'thousandfeeds'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -25,7 +25,7 @@ authors:
     display_name: Parag Jyoti Nath
     gravatar: 5eba783a90884332b80820d154e52aec
     email: paragjnath@gmail.com
-    web: https://thousandfeeds.com
+    web: https://www.linkedin.com/in/paragjyoti/
     twitter: https://twitter.com/paragjnath
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   thousandfeeds:
@@ -36,7 +36,6 @@ authors:
     web: https://thousandfeeds.com
     twitter: https://twitter.com/thousandfeeds
     description: 'This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages.'
-
     web: https://thousandfeeds.com
     twitter: https://twitter.com/paragjnath
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
@@ -73,9 +72,9 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-8026145480801361"
+adsense-data-ad-slot: "4251932288"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
