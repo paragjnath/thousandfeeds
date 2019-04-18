@@ -1,20 +1,16 @@
 ---
 layout: post
-title: Cryptocurrency and Bitcoin
-author: barun
+title: Physics was always like scifi and it always will be!
+author: parag
 featured: true
 categories: []
 image: assets/images/cryptocurrency.jpg
 
 ---
-Cryptocurrency is a form of digital currency or an asset which uses cryptography (*oxford dictionary*; the art of writing or solving codes) so as to make a transaction secure and anonymous. It is widely regarded as a revolution in itself, which is will pave the way for greater application of “Blockchain” in near future.
+We have all seen the movie Interstellar. If not all, many of us have seen. But how many of us actually have understood the science going on in this movie. This movie has all the stuffs from time dilution to time travel, from 3rd to beyond 4th dimensions. Do you literally believe in these scifi stuffs? Although those have been a little exaggerated but those are not something completely fiction.
 
-Blockchain, invented by a mysterious man known by the name Satoshi Nakamoto whose real identity is not known till date. It is a growing list of blocks/nodes which are interconnected and secured using cryptography. Each nodes contains specific information which is cryptic and unique in nature. The most amazing fundamental feature of Blockchain is that it is not easy to be manipulated. 
+   
+ Actually those words black holes, worm holes, time dilution etc are the burning topics of modern theoretical physics. These things don't obey the laws we feel with our senses. So its very difficult to believe them if we think about them right away. We need to do some serious math for that. So if they tell you that time passes slowly on earth then the outer space you can either accept that or you are free to think about it forever but you will barely end up with a conclusion. But that's true because the extremely precious atomic clocks in artificial satellite moves faster then the similar ones on earth.
 
-Bitcoin, the first and most popular cryptocurrency was created by Satoshi Nakamoto in the year 2009. The major reason behind the popularity of Bitcoin (or cryptocurrency) is the decentralized nature of it i.e. it is independent of any Government or Financial Institute’s regulation. Any monetary transaction (between two entities) in todays’ world in the current form of currency is directly or indirectly dependent on some banking authority. Cryptocurrency is independent of such monitoring.
-
-The transactional records in Bitcoin is kept in a ledger. However it is not confined to a single ledger. A large community of people called “*miners*” keep track of any new entry (transaction) and validates it at the same time. Every transaction is in a form of the mathematical puzzle which has to be solved in order to validate or add it to the existing records. A miner solves a mathematical problem for monetary gains. Every time a problem is solved, some amount of Bitcoin is rewarded to the miner and the record of the transaction is updated in every single ledger. The distributed ledger is what makes Bitcoin decentralized and difficult for miscreants to hack/manipulate.
-
-The decentralized nature of Bitcoin which makes it so powerful, unique and popular is also the reason why Government and other financial institute oppose it. Bitcoin can be easily used for money laundering, drug trafficking, illegal arms supply etc. The paradox being if it is regulated to check illegal activities then it loses its identity and essence. The era of blockchain has just started and cryptocurrency is just a part of it. Whether it is a revolution or just another technology only time will tell. 
-
-*Photo Credits* Photo by André François McKenzie on Unsplash
+  
+ As the technology advances and the human civilization, we can now able to detect more phenomenon that are going in the cosmos to which we don't have any answer. No laws of physics fit there at all. So science still cant give proper explanation how and why our universe has created. As laws of physics only explain 4.5% of the total energy the universe. The rest i.e roughly 95% affect the 4.5℅ but those cant be detected by any means. The scientists named them dark energy and dark matter. So if we review the history of science till today we see now today is discovered gradually. There was a time human didn't know that earth rotates the sun. It was a topic of big debate back then.Those Scientists who discovered these things were victim of serious criticism and often got into trouble. Because physics was always like SciFi and it always will be!
