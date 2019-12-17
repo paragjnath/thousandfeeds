@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Thousandfeeds
+title:  About Us
 permalink: /about
 comments: false
 ---
