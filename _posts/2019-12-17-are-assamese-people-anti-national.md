@@ -7,10 +7,6 @@ categories: []
 image: assets/uploads/assam.jpg
 
 ---
-
-
-# Are Assamese people anti-National?
-
 > Assam is protesting against immigration(Citizenship Amendment  Act) when they themselves live across different states of India. Is it hypocrisy or have we failed to understand their emotion?
 
 
