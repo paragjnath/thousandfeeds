@@ -2,7 +2,7 @@
 id: 91
 title: Yellow Sky
 date: 2017-11-13T05:46:11+00:00
-author: thousandfeeds
+author: barun
 layout: post
 permalink: /2017/11/13/yellow-sky/
 image: assets/uploads/2017/11/unnamed-800x445.jpg
