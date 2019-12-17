@@ -36,7 +36,9 @@ Assamese people aversion towards Citizenship Amendment Act is also compounded by
 
 Assamese is both a language and ethnic identity for people living in Assam. Today Assamese are sceptical of the idea of giving citizenship to huge number of illegal immigrants from Bangladesh because it will not only lead to cultural and language degradation but might also lead to division and violent clashes between Assamese and Bengali speaking people living in Assam.
 
-**Assamese will fight with same vigour for the rights and aspirations of fellow Indians at the time of their adversity and expects the same from its brothers and sisters.**
+**Assamese will fight with same vigour for the rights and aspirations of fellow Indians at the time of their adversity and expects the same from its brothers and sisters today when its identity and culture is at stake.**
+
+**Jai Hind!**   **Joi Aai Asom!**
 
 ![](https://www.kaziranga-national-park.com/wp-content/uploads/2019/05/kaziranga-national-park.jpg)
 ![](https://i.pinimg.com/originals/36/4c/50/364c50b49e2f531a878ae947baa8a93f.jpg) 
