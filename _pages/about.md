@@ -11,6 +11,15 @@ comments: false
 <p>Thousandfeeds is an online magazine with variety of content. Thousandfeeds believes in quality of content to serve the thirst of voracious reader.</p>
 
 
+*Founders and Authors*
+---
+image: assets/images/barunAuthor.jpg
+---
+
+
+
+
+
 
 </div>
 </div>
