@@ -2,7 +2,7 @@
 id: 53
 title: CONFERENCE
 date: 2017-04-29 15:10:35 +0000
-author: barun
+author: thousandfeeds
 layout: post
 permalink: "/2017/04/29/conference/"
 image: assets/uploads/2017/04/galaxy-11098_640.jpg
