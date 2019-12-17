@@ -27,7 +27,7 @@ authors:
     email: paragjnath@gmail.com
     web: https://www.linkedin.com/in/paragjyoti/
     twitter: https://twitter.com/paragjnath
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "Co-founder at Thousandfeeds"
   thousandfeeds:
     name: Thousandfeeds
     display_name: Thousandfeeds
@@ -35,10 +35,8 @@ authors:
     email: thousanfeeds@gmail.com
     web: https://thousandfeeds.com
     twitter: https://twitter.com/thousandfeeds
-    description: ' Co-founder at Thousandfeeds'
-    web: https://thousandfeeds.com
-    twitter: https://twitter.com/paragjnath
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: " "
+    
 
 
 # Plugins
