@@ -1,8 +1,16 @@
+layout: post
+title: Are Assamese people anti-National?
+author: barun
+featured: true
+categories: []
+image: ![](https://assets.change.org/photos/6/zy/ny/hHzyNYabgETvzpO-800x450-noPad.jpg?1575904460)
+
+---
+
+
 # Are Assamese people anti-National?
 
 *Assam is protesting against immigration(Citizenship Amendment  Act) when they themselves live across different states of India. Is it hypocrisy or have we failed to understand their emotion?*
-![](https://assets.change.org/photos/6/zy/ny/hHzyNYabgETvzpO-800x450-noPad.jpg?1575904460)
-
 
 
 
