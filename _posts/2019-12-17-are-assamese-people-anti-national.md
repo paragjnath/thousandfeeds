@@ -32,11 +32,11 @@ When someone has a voting right in a state that person can shape or determine th
 
 Illegal immigration of Bangladeshis in Assam is not in same scale (huge difference) as that of Pakistanis or Afghanis in North-Western part of India. For many years Assam has suffered due to illegal immigration and its plight got worse over the years because of the sheer negligence of both Central and State Government. For further details one may look into build up of Assam Agitation which resulted in signing of Assam Accord in the year 1985. The fear of losing one's culture and language is what is keeping Assam in edge.
 
-Assamese people aversion towards CAA is also compounded by historical facts which is not known to fellow Indians. In 1826, when British colonised Assam they made it a part of Bengal Presidency and subsequently Bengali was imposed on Assamese people in between 1836-1873 which is also refered as the Dark Ages of Assamese Language.
+Assamese people aversion towards Citizenship Amendment Act is also compounded by historical facts which is not known to fellow Indians. In 1826, when British colonised Assam they made it a part of Bengal Presidency and subsequently Bengali was imposed on Assamese people in between 1836-1873 which is also refered as the Dark Ages of Assamese Language.
 
 Assamese is both a language and ethnic identity for people living in Assam. Today Assamese are sceptical of the idea of giving citizenship to huge number of illegal immigrants from Bangladesh because it will not only lead to cultural and language degradation but might also lead to division and violent clashes between Assamese and Bengali speaking people living in Assam.
 
-Assamese will fight with same vigour for the rights and aspiration of fellow Indians at the time of their adversity and expects the same from its brothers and sisters.
+**Assamese will fight with same vigour for the rights and aspirations of fellow Indians at the time of their adversity and expects the same from its brothers and sisters.**
 
 ![](https://www.kaziranga-national-park.com/wp-content/uploads/2019/05/kaziranga-national-park.jpg)
 ![](https://i.pinimg.com/originals/36/4c/50/364c50b49e2f531a878ae947baa8a93f.jpg) 
