@@ -19,9 +19,9 @@ comments: false
  
 
 
->**Parag Jyoti Nath**</br>
->**Co-founder and Author, Thousandfeeds**</br>
-Parag is tech freak with keen interest in deep space and dark matter.</br>
+>**Parag Jyoti Nath**<br />
+>**Co-founder and Author, Thousandfeeds**<br />
+Parag is tech freak with keen interest in deep space and dark matter.<br />
 [Linkedin](https://www.linkedin.com/in/paragjyoti/)
 
 
