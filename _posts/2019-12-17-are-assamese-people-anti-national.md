@@ -2,7 +2,7 @@
 layout: post
 title: Are Assamese people anti-National?
 author: barun
-featured: true
+featured: false
 categories: []
 image: assets/images/assam.jpg
 
