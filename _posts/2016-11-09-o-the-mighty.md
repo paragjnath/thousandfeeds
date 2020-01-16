@@ -2,7 +2,7 @@
 layout: post
 title: O the mighty! O the dark one!
 author: barun
-featured: false
+featured: true
 categories: [Poems]
 image: assets/images/bonfire.jpg
 

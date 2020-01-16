@@ -2,7 +2,7 @@
 layout: post
 title: What is Wenger ball?
 author: barun
-featured: false
+featured: true
 categories: [sports]
 image: assets/images/wenger.jpg
 
