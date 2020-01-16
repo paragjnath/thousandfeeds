@@ -3,7 +3,7 @@ layout: post
 title: Physics was always like scifi and it always will be!
 author: parag
 featured: true
-categories: []
+categories: [articles]
 image: assets/uploads/bryan-goff-360297-unsplash.jpg
 
 ---
