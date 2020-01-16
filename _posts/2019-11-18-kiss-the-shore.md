@@ -3,7 +3,7 @@ layout: post
 title: Kiss the shore
 author: barun
 featured: false
-categories: [poems]
+categories: []
 image: assets/images/shore.jpg
 
 ---
