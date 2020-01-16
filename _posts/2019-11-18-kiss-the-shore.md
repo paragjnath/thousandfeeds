@@ -4,7 +4,7 @@ title: Kiss the shore
 author: barun
 featured: false
 categories: [poems]
-image: assets/images/sh.jpg
+image: assets/images/shore.jpg
 
 ---
 
